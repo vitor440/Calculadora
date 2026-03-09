@@ -18,23 +18,24 @@ Uma calculadora simples com interface moderna utilizando a biblioteca CustomTkin
 ## Instalação:
 
 1. Clone o repositório (ou baixe o arquivo .py diretamente):
-
+   ``` bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
+   ```
 
-2. Instale o customtkinter com o pip:
+3. Instale o customtkinter com o pip:
 
-   pip install customtkinter
+   - pip install customtkinter
    
-   caso você esteja no linux e não tenha o pacote tkinter instalado -> sudo apt install python3-tk
+   - caso você esteja no linux e não tenha o pacote tkinter instalado -> sudo apt install python3-tk
 
-   Obs: Se estiver usando um ambiente virtual, ative-o antes de instalar.
+   - Obs: Se estiver usando um ambiente virtual, ative-o antes de instalar.
 
 ## Como Executar:
 
 No terminal (ou prompt de comando), execute o arquivo Python:
 
-   python nome_do_arquivo.py
+   - python nome_do_arquivo.py
 
 (Substitua "nome_do_arquivo.py" pelo nome real do arquivo "calculadora.py")
 
