@@ -1,19 +1,19 @@
-Calculadora com CustomTkinter
+# Calculadora com CustomTkinter
 
 Uma calculadora simples com interface moderna utilizando a biblioteca CustomTkinter, baseada no tkinter do Python. Esta aplicação realiza operações básicas como adição, subtração, multiplicação, divisão, porcentagem e possui tratamento de erros como divisão por zero e sintaxe incorreta.
 
-Funcionalidades
+## Funcionalidades
 
 - Interface gráfica com tema escuro.
 - Suporte às operações básicas: +, -, *, /, %
 - Tratamento de erros com mensagens (messagebox).
 
-Requisitos:
+## Requisitos:
 
 - Python 3.8 ou superior
 - Biblioteca customtkinter
 
-Instalação:
+## Instalação:
 
 1. Clone o repositório (ou baixe o arquivo .py diretamente):
 
@@ -23,10 +23,12 @@ Instalação:
 2. Instale o customtkinter com o pip:
 
    pip install customtkinter
+   
+   caso você esteja no linux e não tenha o pacote tkinter instalado -> sudo apt install python3-tk
 
    Obs: Se estiver usando um ambiente virtual, ative-o antes de instalar.
 
-Como Executar:
+## Como Executar:
 
 No terminal (ou prompt de comando), execute o arquivo Python:
 
