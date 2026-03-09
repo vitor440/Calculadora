@@ -2,6 +2,8 @@
 
 Uma calculadora simples com interface moderna utilizando a biblioteca CustomTkinter, baseada no tkinter do Python. Esta aplicação realiza operações básicas como adição, subtração, multiplicação, divisão, porcentagem e possui tratamento de erros como divisão por zero e sintaxe incorreta.
 
+<img width="352" height="493" alt="Image" src="https://github.com/user-attachments/assets/d8ec3a33-5c13-4b5d-a875-851dcf7f9f87" />
+
 ## Funcionalidades
 
 - Interface gráfica com tema escuro.
