@@ -35,8 +35,7 @@ Uma calculadora simples com interface moderna utilizando a biblioteca CustomTkin
 
 No terminal (ou prompt de comando), execute o arquivo Python:
 
-   - python nome_do_arquivo.py
+   - python calculadora.py
 
-(Substitua "nome_do_arquivo.py" pelo nome real do arquivo "calculadora.py")
 
 
